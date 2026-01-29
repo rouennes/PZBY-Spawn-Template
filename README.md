@@ -60,3 +60,4 @@ Once installed, the buildings will automatically spawn in-game at the defined lo
 ## Usage
 --------
 You can use, modify, upload on workshop, redistribute this template anywhere you want.
+You are free to use all this to upload your own building spawn mod.
