@@ -8,7 +8,7 @@ This template allows mappers to spawn custom `.pzby` building files directly in-
 -------------------------
 
 To obtain a `.pzby`, you must export your building from the Building Editor:
-- This requires the **Unofficial Mapping Tools** by Alree / Unjammer
+- This requires the **Unofficial Mapping Tools** for B42, by Alree / Unjammer
 - Create or open a `.tbx` building
 - Use "Export → New Binary File"
 - The PZBY name CANNOT countain any space : only use underscores
