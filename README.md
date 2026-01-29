@@ -1,6 +1,6 @@
 PZBY Spawn Template, by rouennes                       
 
-This template allows mappers to spawn custom `.pzby` building files directly in-game using PZ basement scripts.
+This template allows mappers to spawn custom `.pzby` building files directly in-game using PZ basement scripts.  
 You should put this folder in : C:\Users\YourUserName\Zomboid\mods
 
 
