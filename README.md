@@ -19,23 +19,26 @@ The export produces a `.pzby` file usable by this template.
 ## Folder Structure
 -------------------
 Your pzby spawn mod must always include:  
-PZBY-Spawn-Template/  
-└── mod.info  
-└── icon.png  
-└── poster.png  
-├── 42/  
-│   └── mod.info  
-│   └── poster.png  
-├── common/  
-│   └── media/  
-│       └── mod.info  
-│       └── poster.png  
-│       └── icon.png  
-│       ├── binmap/  
-│       │   └── YourBuilding.pzby  
-│       └── maps/  
-│           └── YourMapName/  
-│               └── basements.lua  
+```
+PZBY-Spawn-Template/
+└── mod.info
+└── icon.png
+└── poster.png
+├── 42/
+│   └── mod.info
+│   └── poster.png
+├── common/
+│   └── media/
+│       └── mod.info
+│       └── poster.png
+│       └── icon.png
+│       ├── binmap/
+│       │   └── YourBuilding.pzby
+│       └── maps/
+│           └── YourMapName/
+│               └── basements.lua
+```
+
 
 And the `.pzby` building files must be placed in the binmap folder.
 
